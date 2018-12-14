@@ -3,4 +3,4 @@ Chatbot demonstration
 
 * Here is nothing yet here.
 
-* ‚±‚±‚É‚Í‚Ü‚¾‰½‚à‚ ‚è‚Ü‚¹‚ñ
+* ã“ã“ã«ã¯ã¾ã ä½•ã‚‚ã‚ã‚Šã¾ã›ã‚“ã€‚

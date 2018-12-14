@@ -49,3 +49,13 @@ Message欄にコミットメッセージを入れて最上段のチェックボ�
 
 逆に言えば、pushしない限り変更はリモートに留まります。
 
+## GitHubでページを作る
+
+* 個人ページ
+  * `username`.github.io という名前でリポジトリ作成
+  * index.htmlというファイルを作ってpush
+  * `username`.github.io/ でアクセスできる。
+* プロジェクトページ
+  * 各リポジトリに gh_pagesというブランチを切る
+  * index.htmlというファイルを作ってpush  
+  * `username`.github.io/`projectname` でアクセスできる。
